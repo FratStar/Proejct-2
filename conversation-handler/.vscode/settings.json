@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "/home/fratstar/.cache/pypoetry/virtualenvs/conversation-handler-seK4-EX4-py3.8/bin/python",
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": true,
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": true,
+    "python.linting.flake8Args": [
+        "--max-line-length=88"
+    ],
+}

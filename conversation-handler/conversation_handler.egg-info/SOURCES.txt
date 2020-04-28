@@ -1,0 +1,7 @@
+README.rst
+setup.py
+conversation_handler/__init__.py
+conversation_handler.egg-info/PKG-INFO
+conversation_handler.egg-info/SOURCES.txt
+conversation_handler.egg-info/dependency_links.txt
+conversation_handler.egg-info/top_level.txt
